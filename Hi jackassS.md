@@ -5,3 +5,5 @@ add new strings
 and more
 
 *Kyrsiv*
+
+**Half bold**
