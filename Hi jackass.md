@@ -32,52 +32,6 @@
 + добавил ignore
 + добавил кучу веток для log
 
-### + 1st brunch DFSFSDFSFSFSDFSDFSFSDFS
-### + 2st brunch SDFSDSFDSFSDFSFSDFSFSF  
-### + 3st brunch SDFSDFSFSDFSDFSDFSDFSF
-SDFSFSFSFSDFSFSFSFSFF
-SFFFFFFFFFFFFFFFFFSF
-FSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-FSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-### + 8st brunch FSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-addddddddddddddddddddddddddddddddddddddddddd
-addddddddddddddddddddddddddddddddddddd
-daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-## + 7st brunch FSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-addddddddddddddddddddddddddddddddddd
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-FSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-SFFFFFFFFFFFFFFFFFFFFFFFFFFF
-## + 10st branch SSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-sffffffffffffffffffffffffffffffffffffffffff
-sfffffffffffffffffffffffffffffffffffffffffffffffff
-sffffffffffffffffffffffffffffffffffffffffffffffffff
-fssssssssssssssssssssssssssssssssssssssssssssssssss
-sffffffffffffffffffffffffffffffffffffffffffffs
-## + 9th brunch SFFFFFFFFFFFFFFFFFFFFFFFFFFF
-fssssssssssssssssssssssssssssssssssssss
-fssssssssssssssssssssssssssssssssssssssssssss
-fssssssssssssssssssssssssssssssssssssssssssss
-sffffffffffffffffffffffffffffffffffffffffffffffff
-FSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-FSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-ertttttttttttttttttttttttttttttt
-etrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-etrrrrrrrrrrrrrrrrrrrrrrrrrr
-etrrrrrrrrrrrrrrrrrrrrrrr
-
-### + 11st brunch FSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-asdddddddddddddddddddddddddddddddddddd
-adddddddddddddddddddddddddddddddddd
-daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
 
 
 # Все уже скопипастенно до нас
