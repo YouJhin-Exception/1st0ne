@@ -1,26 +1,5 @@
 # 1st test file for git
 
-
-some new branch
-for tests
-
-add new strings
-and more
-
-## some text
-*Kyrsiv*
-
-**Half bold**
-
-* n1
-
-* n2
-
-* n3
-
-1. namb list
-2. namb 2
-
 # Задания - 1.1
 
 1. *Курсив*
@@ -36,8 +15,19 @@ and more
 
 [1]: https://www.google.com (сайт гугла)
 
-10. ![Ну и какая-нибудь картинка](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e711331903197.56660bdba5f27.jpg)
+10. ![Ну и какая-нибудь картинка](!https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7e711331903197.56660bdba5f27.jpg)
 
+
+----
+#  **12.07**
+
+
++ скрыл картинку, мешает, (!http)
++ убрал топ, некрасиво 
++ добавил [команды гита](Git&Mark\gitComm.md)
+# задание 1.2
+
++ работа с ветками на [комнадах MarckDown](Git&Mark\markComm.md) 
 
 
 
