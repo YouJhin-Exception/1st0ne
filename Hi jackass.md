@@ -30,7 +30,7 @@
 + работа с ветками на [комнадах MarckDown](Git&Mark\markComm.md) 
 + удалил все ветки
 + добавил ignore
-+ добавил кучу веток для log
++ добавил кучу веток для log (c ```git log --graph --decorate --oneline``` гораздо приятнее читать)
 
 
 
