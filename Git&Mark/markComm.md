@@ -64,7 +64,7 @@ Alt-H2
 
 [Ссылка со сноской][Произвольный регистронезависимый текст]
 
-[Относительная ссылка на документ(Норм плэйлист -)))](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv?si=vzkwVBo0TGWFEcO-oXkLew)
+[Относительная ссылка на Нормальный такой плэйлист -)))](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv?si=vzkwVBo0TGWFEcO-oXkLew)
 
 [Для ссылок со сноской можно использовать цифры][1]
 
