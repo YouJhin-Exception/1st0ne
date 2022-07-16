@@ -48,4 +48,4 @@
 
 * [ ] spisok c check
 * [ ] spisok c check
-* [ ] spisok c check
+* [x] spisok c check
